@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     height:'10%'             // Makes the container take full width
   },
   headerText: {
-    marginTop:'2%',
+    marginTop:'1%',
     textAlign: 'center',           // Centers the text within the full-width Text container
     color: '#E1EBEE',              // White text for contrast
     fontSize: 36,                  // Large font for a header
